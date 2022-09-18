@@ -2,7 +2,7 @@
 ### Interested in Coding, WebDev, CyerSec
 
 <a>
-    <img src="https://komarev.com/ghpvc/?username=caligo-phantom&color=blueviolet&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=caligo-phantom&color=6f2da8&label=PROFILE+VIEWS">
 </a>
 
 
