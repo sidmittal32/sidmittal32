@@ -32,6 +32,6 @@
 [github]: https://github.com/caligo-phantom
 [discord]: https://discord.com/channels/@me/867681051119321088
 [instagram]:https://www.instagram.com/siddhrth.mittl/
-[twitter]:https://twitter.com/caligo_phantom
+[twitter]:https://twitter.com/sidmittal32
 [codechef]:codechef.com/users/caligo_phantom
 [linkedin]:https://www.linkedin.com/in/siddharth-mittal-/
