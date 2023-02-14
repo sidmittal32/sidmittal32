@@ -5,11 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=caligo-phantom&color=6f2da8&label=PROFILE+VIEWS">
 </a>
 
-
-<a>
-    <img src ="https://thumbs.gfycat.com/ConcernedPowerlessFlyinglemur-size_restricted.gif">
-</a>
-
 ### Connect with me:
 
 [<img height="32" width="32" src="https://img.icons8.com/fluency/344/github.png" />][github]
