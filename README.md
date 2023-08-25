@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddharth Mittal</h1>
+<h1 align="center">"Hello, World!", I'm Siddharth Mittal</h1>
 <h3 align="center">I am proficient in Frontend Web Development, App Development (Flutter) and DS&A (C++).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidmittal32&label=Profile%20views&color=0e75b6&style=flat" alt="sidmittal32" /> </p>
